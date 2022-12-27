@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on [My Personal Portfolio](https://voonna-sriram-s141095.netlify.app/)
 
-- 🌱 I’m currently learning **graphQL, Redux, Swift**
-
 - 💬 Ask me about **React, Node, javascript**
 
 - 📫 How to reach me **voonna.sriram@gmail.com**
